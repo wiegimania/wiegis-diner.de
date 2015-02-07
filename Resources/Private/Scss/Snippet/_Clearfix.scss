@@ -1,0 +1,13 @@
+/**
+ * @author Steffen Maechtel <s.maechtel@firstsquare.de>
+ * @copyright FirstSquare GmbH
+ */
+
+&:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+}

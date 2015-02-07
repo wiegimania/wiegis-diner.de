@@ -1,0 +1,14 @@
+/**
+ * @author Steffen Maechtel <s.maechtel@firstsquare.de>
+ * @copyright FirstSquare GmbH
+ */
+
+& {
+    @import "Snippet/ResetListStyle";
+
+    li {
+        margin: 0;
+        padding: 0;
+        background: none;
+    }
+}
